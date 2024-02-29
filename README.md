@@ -5,11 +5,6 @@ We're mainly focused on using [Visualgo](https://visualgo.net/en) and move into
 
 ---
 
-## Each Data Structure and Algorithm will be in their respective branches.
-You could change the branch and see each DSA.
-
----
-
 ## Starting with Visualgo:
 1) [Sorting](https://visualgo.net/en/sorting)
 2) [Bitmask](https://visualgo.net/en/bitmask?slide=1)
