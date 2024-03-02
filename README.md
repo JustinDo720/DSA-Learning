@@ -5,6 +5,15 @@ We're mainly focused on using [Visualgo](https://visualgo.net/en) and move into
 
 ---
 
+## My approach to each algorithm
+1) Watch the video of each algorithm 
+2) Explain it in my own words 
+3) Have ChatGPT fix my understanding of the algorithm
+4) Try my best to recreate that Algorithm on my own
+5) Have ChatGPT fix my code for that algorithm
+
+---
+
 ## Starting with Visualgo:
 1) [Sorting](https://visualgo.net/en/sorting)
 2) [Bitmask](https://visualgo.net/en/bitmask?slide=1)
